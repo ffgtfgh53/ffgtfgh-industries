@@ -1,7 +1,8 @@
 available: false
 callbacks: ''
 cargoAcceptance: []
-cargoProduction: []
+cargoProduction:
+- GRAN
 colour: 1
 fundCostMultiplier: 100
 id: 1
