@@ -1,0 +1,17 @@
+abbreviation: PS
+available: true
+classes: 1
+colour: 0
+id: 1
+label: PASG
+longName: 'passengers '
+name: 'Passengers '
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/passengers.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 16
