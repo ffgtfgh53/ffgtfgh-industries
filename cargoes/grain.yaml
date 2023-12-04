@@ -1,0 +1,17 @@
+abbreviation: GR
+available: false
+classes: 32
+colour: 1
+id: 3
+label: GRAN
+longName: grain
+name: Grain
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/grain.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 2
