@@ -1,0 +1,17 @@
+abbreviation: PG
+available: false
+classes: 544
+colour: 219
+id: 2
+label: Pigs
+longName: pigs
+name: Pigs
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 2056
+sprite:
+  filename: cargoes/pigs.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 1
