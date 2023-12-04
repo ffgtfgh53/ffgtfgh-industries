@@ -1,7 +1,8 @@
 available: true
 callbacks: ''
 cargoAcceptance: []
-cargoProduction: []
+cargoProduction:
+- Pigs
 colour: 1
 fundCostMultiplier: 100
 id: 0
@@ -11,6 +12,6 @@ name: Animal Farm
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
-prospectChance: 75
+prospectChance: 0
 tiles: []
-type: primary
+type: secondary
